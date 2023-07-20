@@ -1,6 +1,3 @@
-# Image parsing
-Back in 2019, I was trying to get into software development by making automated software [automated software](https://github.com/k1dnap/poe-bot). In 2022, when I got some free time, I attempted to ressurect that project and make some improvements
-
 ## Purpose and idea
 The original idea of this project was about implementing automated software for playing videogame Dota2 with using some deep learning techniques.
 In fact, the project was abandoned on a stage of parsing the data from screen. It mostly was a pet project on to place hands on deep learning.
