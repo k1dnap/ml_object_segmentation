@@ -33,15 +33,15 @@ And sometimes bars could overlap each other where yolo type models couldnt detec
 <p align="center"><img src='readme/hovered.jpg' align="center"  ></p>
 
 ## v0
-[v0 notebook](0_Circle_Detection_and_Localization.ipynb)
-I've decided to make a custom object detection model. Since we dont need to detect cats\dogs of different types, it looks more than possible to create this model, if the data is presented
+[v0 notebook](0_Circle_Detection_and_Localization.ipynb)  
+I've decided to make a custom object detection model. Since we dont need to detect cats\dogs of different types, it looks more than possible to create this model, if the data is presented  
 This is the original ipynb I've found for basic segmentation from scratch without using any backbones or other object detection frameworks. It was a base for this project.
 <p align="center"><img src='readme/v0.bmp' align="center"  ></p>
 
 ## v1
-[v1 notebook](screen_detection_v1.ipynb)
-test samples:
-original, labels, output
+[v1 notebook](screen_detection_v1.ipynb)  
+test samples:  
+original, labels, output  
 <p align="center"><img src='readme/v1_test_samples.bmp' align="center"  ></p>
 real sample:
 <p align="center"><img src='readme/sample_light.jpg' align="center"  ></p>
