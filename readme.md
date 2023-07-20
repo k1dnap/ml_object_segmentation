@@ -16,7 +16,7 @@ Since there are minimum 7 classes of bars, and bars may be in different state(re
 <p align="center"><img src='readme/hero_hp_bar_differences.jpg' align="center"  ></p>
 openCV approach didnt look that promising, because it needs to be tuned, and some game changes may change the contrast\brightness of the bars, and openCV approach needs to be tuned again, object detection using deep learning method was chosen.
 
-## preparations
+## Preparations
 In OpenAI Starcraft 2 project, I've found a picture, which nearly describes the data they were using in this project
 <p align="center"><img src='readme/openai_starcraft.png' align="center"  ></p>
 
